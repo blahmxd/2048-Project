@@ -1,0 +1,13 @@
+from Tkinter import* 
+from ttk import Button,Combobox
+import random
+
+class Matrix():
+  def_init_(self,row,col,fill = 0):
+    self.row = row
+    self.cow = cow
+    self.fill = fill
+    self.matrix = []
+    for i in range(row):
+      r = []
+      for j in range(col):
