@@ -1,6 +1,7 @@
 from tkinter import* 
 from logic import* 
 from random import*
+import 2048board.py 
 
 
 
